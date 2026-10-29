@@ -1,0 +1,8 @@
+make a multiplayer game where players interact using nations they create and run
+the players need to be able to chat with each other and also need to be able to 
+send trade requests and trade resources and also need to be able to join pacts
+and create alliances, federations, and build economic and political power
+they need to be able to manage one another in a hierarchy if they choose to
+
+think stellaris but with a simplified economy
+
